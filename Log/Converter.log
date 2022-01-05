@@ -8250,3 +8250,59 @@ Jan 05, 2022 10:43:43 AM main.h2h.mt.ConvertMT940 getCurrency
 INFO: Currency found
 Jan 05, 2022 10:43:43 AM main.h2h.mt.ConvertMT940 convertMtGodrej
 INFO: File KAI001_000001176908_20200722.txt converted
+Jan 05, 2022 10:57:00 AM main.h2h.mt.BCPGPFileAndFolder checkConfigMt
+INFO: Reading configuration file.
+Jan 05, 2022 10:57:00 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: Start mapping file mnemonic
+Jan 05, 2022 10:57:00 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: Mapping file mnemonic done
+Jan 05, 2022 10:57:00 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: Starting convert file KAI001_000001176908_20200722.txt
+Jan 05, 2022 10:57:00 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 10:57:00 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 10:57:00 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: File KAI001_000001176908_20200722.txt converted
+Jan 05, 2022 11:00:30 AM main.h2h.mt.BCPGPFileAndFolder checkConfigMt
+INFO: Reading configuration file.
+Jan 05, 2022 11:00:30 AM main.h2h.mt.ConvertMT940 convertMtGodrej
+INFO: Start mapping file mnemonic
+Jan 05, 2022 11:00:30 AM main.h2h.mt.ConvertMT940 convertMtGodrej
+INFO: Mapping file mnemonic done
+Jan 05, 2022 11:00:30 AM main.h2h.mt.ConvertMT940 convertMtGodrej
+INFO: Starting convert file KAI001_000001176908_20200722.txt
+Jan 05, 2022 11:00:31 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 11:00:31 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 11:00:31 AM main.h2h.mt.ConvertMT940 convertMtGodrej
+INFO: File KAI001_000001176908_20200722.txt converted
+Jan 05, 2022 11:00:47 AM main.h2h.mt.BCPGPFileAndFolder checkConfigMt
+INFO: Reading configuration file.
+Jan 05, 2022 11:00:47 AM main.h2h.mt.ConvertMT940 convertMt
+INFO: Start mapping file mnemonic
+Jan 05, 2022 11:00:47 AM main.h2h.mt.ConvertMT940 convertMt
+INFO: Mapping file mnemonic done
+Jan 05, 2022 11:00:47 AM main.h2h.mt.ConvertMT940 convertMt
+INFO: Starting convert file KAI001_000001176908_20200722.txt
+Jan 05, 2022 11:00:47 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 11:00:47 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 11:00:47 AM main.h2h.mt.ConvertMT940 convertMt
+INFO: File KAI001_000001176908_20200722.txt converted
+Jan 05, 2022 11:01:02 AM main.h2h.mt.BCPGPFileAndFolder checkConfigMt
+INFO: Reading configuration file.
+Jan 05, 2022 11:01:02 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: Start mapping file mnemonic
+Jan 05, 2022 11:01:02 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: Mapping file mnemonic done
+Jan 05, 2022 11:01:02 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: Starting convert file KAI001_000001176908_20200722.txt
+Jan 05, 2022 11:01:02 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 11:01:02 AM main.h2h.mt.ConvertMT940 getCurrency
+INFO: Currency found
+Jan 05, 2022 11:01:02 AM main.h2h.mt.ConvertMT940 convertMtAdmf
+INFO: File KAI001_000001176908_20200722.txt converted
