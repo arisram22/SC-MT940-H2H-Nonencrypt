@@ -1,0 +1,3 @@
+"Tanggal Transaksi","Tanggal Posting","Tanggal Valuta","Kode Cabang","Kode Transaksi","Nomor Rekening","Nomor Referensi","Currency","Nilai Transaksi","Debet Credit","Deskripsi Transaksi","Nomor Referensi User","Openning Balance","Closing Balance"
+"20210720 073309","20210720","20210720","9211","2327:FTD","003546508833    ","20210720073309641809                    ","360","1685532","C","PRIMA TRF  BCA 422418 S1ACIB95 KLIKBCA IND\\ \","S1ACIB95422418                          ","1998640721.66","2002626253.66"
+"20210720 233414","20210721","20210721","26","6601:PCD","003546508833    ","","360","2300000","C","7170030400010058 GR 417844","","1998640721.66","2002626253.66"

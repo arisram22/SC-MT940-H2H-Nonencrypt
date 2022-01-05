@@ -1,0 +1,5 @@
+"Tanggal Transaksi","Tanggal Posting","Tanggal Valuta","Kode Cabang","Kode Transaksi","Nomor Rekening","Nomor Referensi","Currency","Nilai Transaksi","Debet Credit","Deskripsi Transaksi","Nomor Referensi User","Openning Balance","Closing Balance"
+"20201127 133322","20210305","20210305","9222","5003:SCD","003600269199    ","","360","250000","D","TUTUP REKENING TABUNGAN FLEXIMAX","","0","0"
+"20201127 133322","20210305","20210305","9222","5001:CIN","003600269199    ","","360","278986.3","C","Credit Interest Capitalised","","0","0"
+"20201127 133322","20210305","20210305","9222","5008:","003600269199    ","","360","55797.26","D","TAX Deducted","","0","0"
+"20201127 134206","20210305","20210305","707","1320:FT","003600269199    ","905872021030500970008                   ","360","598973189.04","D","Tutup Rek/Closeout Funds Trf","6                                       ","0","0"

@@ -1,0 +1,1 @@
+"Tanggal Transaksi","Tanggal Posting","Tanggal Valuta","Kode Cabang","Kode Transaksi","Nomor Rekening","Nomor Referensi","Currency","Nilai Transaksi","Debet Credit","Deskripsi Transaksi","Nomor Referensi User","Openning Balance","Closing Balance"

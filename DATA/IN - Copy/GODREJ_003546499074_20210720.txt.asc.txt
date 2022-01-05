@@ -1,0 +1,2 @@
+"Tanggal Transaksi","Tanggal Posting","Tanggal Valuta","Kode Cabang","Kode Transaksi","Nomor Rekening","Nomor Referensi","Currency","Nilai Transaksi","Debet Credit","Deskripsi Transaksi","Nomor Referensi User","Openning Balance","Closing Balance"
+"20210720 233414","20210721","20210721","203","6601:PCD","003546499074    ","","360","3469100","C","7172061100010038","","1322495.45","4791595.45"

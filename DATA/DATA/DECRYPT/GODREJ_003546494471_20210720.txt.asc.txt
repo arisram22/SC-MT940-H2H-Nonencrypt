@@ -1,0 +1,2 @@
+"Tanggal Transaksi","Tanggal Posting","Tanggal Valuta","Kode Cabang","Kode Transaksi","Nomor Rekening","Nomor Referensi","Currency","Nilai Transaksi","Debet Credit","Deskripsi Transaksi","Nomor Referensi User","Openning Balance","Closing Balance"
+"20210720 152750","20210720","20210720","9211","2327:FTD","003546494471    ","20210720032751188342                    ","360","12308013","C","7171040600020021 PRIMA TRF BCA 9424 A785 TOSERBA JL.GANDAWIJAYABANDUNG         ID","A785    9424                            ","76660975.98","88968988.98"
